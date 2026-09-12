@@ -98,12 +98,6 @@ ros2 run <package_name> motor_node
 
 > Adjust package/executable names to match your `setup.py` / `package.xml` once the code is organized into a colcon package.
 
-## Team
-
-- **Ziad Elzein** — Mechanical design (SolidWorks, 3D printing, chassis iteration)
-- **Mohamed Omar El Tallaa** — Systems engineer: Linux/ROS 2 environment, GPIO/motor driver, safety shutdown logic
-- **Sybren Veninga** — Control logic: median filter, PID tuning, LiDAR integration and diagnostics
-- **Zaid Alkhair Mohammed Yousef BaniYounes** — Sensor fusion and hardware optimization, LiDAR USB/parsing troubleshooting
 
 ## References
 
